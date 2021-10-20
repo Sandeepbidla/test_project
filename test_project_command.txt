@@ -11,4 +11,12 @@
 => Step 4
 - Add a file in it - 'test1' and add content to it 'This is first commit'.
 - touch text1.txt
-- 
+=> Step 5
+- Push it to github.
+- git push origin master
+=> Step 6
+- Move to folder project2.
+- cd project2
+=> Step 7
+- Clone the repo in project2.
+- git clone git@github.com:Sandeepbidla/test_project.git
