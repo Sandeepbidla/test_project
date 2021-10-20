@@ -20,3 +20,17 @@
 => Step 7
 - Clone the repo in project2.
 - git clone git@github.com:Sandeepbidla/test_project.git
+=> Step 8
+- Switch to staging.
+- git checkout staging
+=> Step 9
+- Change the text in file 'test1' to 'This is second commit'.
+- git commit -m "This is second commit"
+=> Step 10
+- Commit and push to remote branch.
+- git push origin master
+=> Step 11
+- Move to project1
+- cd project1
+=> Step 12
+- Switch to staging branch.
