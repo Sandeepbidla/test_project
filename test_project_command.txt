@@ -34,3 +34,11 @@
 - cd project1
 => Step 12
 - Switch to staging branch.
+- git checkout staging
+=> Step 13
+- Change the text in file 'test1' to 'This is third commit'.
+- git commit -m "This is third commit"
+=> Step 14
+- Commit and push to remote branch. (Explain what happened here).
+- git push origin master
+
