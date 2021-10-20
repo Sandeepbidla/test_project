@@ -23,3 +23,6 @@
 => Step 8 
 - Switch to staging.
 - git checkout staging
+=> Step 9
+- Change the text in file 'test1' to 'This is second commit'.
+- git commit -m "added This is second commit"
