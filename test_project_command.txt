@@ -40,5 +40,12 @@
 - git commit -m "This is third commit"
 => Step 14
 - Commit and push to remote branch. (Explain what happened here).
-- git push origin master
+- git push origin staging
+=> Step 15
+- Switch to master.
+- git checkout master
+=> Step 16
+- Merge staging branch into master.
+- git checkout staging.
+- git merge master.
 
