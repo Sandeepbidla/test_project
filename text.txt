@@ -1,1 +1,8 @@
 => 'A is an alphabet'
+1. 'A is an alphabet'
+2. 'B is an alphabet'
+3. 'c is an alphabet'
+4. 'D is an alphabet'
+5. 'E is an alphabet'
+6. 'F is an alphabet'
+7. 'G is an alphabet'
